@@ -1,5 +1,5 @@
 # Pokedex App
-This project is the second one of my new simple Flutter projects.
+This project is the third one of my new simple Flutter projects.
 
 ## Features
 - Pokemon Wiki
